@@ -16,4 +16,4 @@ Inspiré du nom même de la mosquée ("Noor" signifiant “Lumière” en arabe)
 
 > **IMAGES :** logo, test. 
 
-[](/assets/Awstrol%20logo.PNG)
+![](/assets/Awstrol%20logo.PNG)
