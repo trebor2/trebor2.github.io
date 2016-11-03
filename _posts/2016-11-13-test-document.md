@@ -15,4 +15,5 @@ Projet de vidéo-mapping sur toute la surface (360°) de la mosquée Al Noor, à
 Inspiré du nom même de la mosquée ("Noor" signifiant “Lumière” en arabe), ce show animé de 15 minutes est une invitation à redécouvrir l’architecture du bâtiment sacré par des transformations géométriques et colorées ainsi que des jeux visuels abstraits avec les pierres de différentes teintes de blanc et de beige qui constituent la mosquée.
 
 > **IMAGES :** logo, test. 
+
 ![](/assets/Awstrol%20logo.PNG)
