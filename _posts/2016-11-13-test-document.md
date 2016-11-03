@@ -18,4 +18,4 @@ Inspiré du nom même de la mosquée ("Noor" signifiant “Lumière” en arabe)
 ![](/assets/Awstrol%20logo.PNG)
 
 
-<a href="trebor2.github.io">Home</a>
+<a href="">Home</a>
