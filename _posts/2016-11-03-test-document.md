@@ -16,10 +16,4 @@ the Person who is paralyzed; is old;
 
 ![](/assets/Awstrol%20Cover.PNG)
 
-<nav role="navigation">
-      <ul class="navigation__primary">
-        <li class="{{#isCurrentNav 'home' }}nav--current{{/isCurrentNav}}"><a href="/">Home</a></li>
-        <li class="{{#isCurrentNav 'test-document' }}nav--current{{/isCurrentNav}}" ><a href="/now">Now</a></li>
-        <li class="{{#isCurrentNav 'preface' }}nav--current{{/isCurrentNav}}"><a href="/writings">Writings</a></li>
-      </ul>
 
