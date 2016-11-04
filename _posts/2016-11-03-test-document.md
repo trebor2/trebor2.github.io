@@ -11,7 +11,7 @@ I am, of course,
 the Person who is paralyzed; is old; 
 
 
-**Their story is not mine to tell**
+> **Their story is not mine to tell**
 
 ![](/assets/Awstrol%20Cover.PNG)
 
