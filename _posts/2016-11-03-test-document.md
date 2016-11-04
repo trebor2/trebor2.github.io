@@ -4,17 +4,16 @@ title: Video Mapping
 date: 2016-11-03
 ---
 
-# Al Noor
+# Preface
 
-## Introduction et synopsis
+Awstrol (pronounced “awe-stroll) is an homage honoring Australopithecus, our oldest bipedal ancestor. My projects name has changed through the years, and so too has its story, ambitions, and nature.
+Yet it is the precious few things that have endured without change that matter most, and deserve to be honored. Their stories mean more, are worth hearing, and demand our attention. 
+I am, of course, 
+the Person who is paralyzed; is old; 
 
-Projet de vidéo-mapping sur toute la surface (360°) de la mosquée Al Noor, à Sharjah (Emirats Arabes Unis) dans le cadre du Sharjah Light Festival 2016, avec Nomada.
 
-> **Technique :** pastels, crayons de couleurs, peinture, photoshop, after effects.
+Their story is not mine to tell 
 
-Inspiré du nom même de la mosquée ("Noor" signifiant “Lumière” en arabe), ce show animé de 15 minutes est une invitation à redécouvrir l’architecture du bâtiment sacré par des transformations géométriques et colorées ainsi que des jeux visuels abstraits avec les pierres de différentes teintes de blanc et de beige qui constituent la mosquée.
-
-> **IMAGES :** logo, test. 
 ![](/assets/Awstrol%20logo.PNG)
 
 
