@@ -19,11 +19,14 @@ html {
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
   font-size: 100%; // Make it easy to calculate rems to px
+  background: #d9d9d9;
 }
 
 body {
   @include ff--sans-serif(400);
   -webkit-font-smoothing: antialiased;
+  color: #4a86e8;
+
 }
 
 article,
