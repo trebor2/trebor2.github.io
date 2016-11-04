@@ -3,7 +3,6 @@ layout: post
 title: Video Mapping
 date: 2016-11-03
 ---
-<color="#4a86e8">
 # Preface
 
 Awstrol (pronounced “awe-stroll) is an homage honoring Australopithecus, our oldest bipedal ancestor. My projects name has changed through the years, and so too has its story, ambitions, and nature.
@@ -14,7 +13,7 @@ the Person who is paralyzed; is old;
 
 Their story is not mine to tell 
 
-![](/assets/Awstrol%20cover.PNG)
+![](/assets/Awstrol%20Cover.PNG)
 
 
 <a href="https://trebor2.github.io/index.html">Home</a>
