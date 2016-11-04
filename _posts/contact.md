@@ -1,7 +1,11 @@
+---
+type: page
+title: contact
+---
 <form action="https://formspree.io/rbm@awstrol.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
     <textarea name="message" placeholder="Your message"></textarea>
     <input type="hidden" name="_subject" value="Website contact" />
     <input type="submit" value="Send">
