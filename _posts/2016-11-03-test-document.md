@@ -18,4 +18,4 @@ the Person who is paralyzed; is old;
 ![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
 <h6>Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
 <img style="position:absolute; left:0px; width:100%; height:100" src="assets/finalerightleg.jpg" />
-
+<img style="position:absolute; left:0px; width:100%; height:100" src="assets/5.36renderfront.jpg" />
