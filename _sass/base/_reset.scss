@@ -67,22 +67,11 @@ audio:not([controls]) {
 
 [hidden], template { display: none; }
 
-.flex-container {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-    -webkit-justify-content: center;
-    justify-content: center;
-    position: inherit;
-    left: 0;
-}
-
-.flex-item {
-   max-height: 1000px;
-   width: auto;
+img {
+  max-width: 100%;
+  font-style: italic;
+  vertical-align: middle;
+  border: 0;
 }
 
 svg:not(:root) { overflow: hidden; }
