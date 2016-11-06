@@ -15,5 +15,6 @@ the Person who is paralyzed; is old;
 > Their story is not mine to tell
 
 ![](/assets/Awstrol%20Cover.PNG)
+![](/assests/Henri-Edmond%Cross%Landscape%With%Stars.jpg)
 
 
