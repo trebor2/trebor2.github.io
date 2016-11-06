@@ -66,14 +66,6 @@ audio:not([controls]) {
 /* Images */
 
 [hidden], template { display: none; }
-img {
-  max-height: 100%;
-  width: auto;
-  vertical-align: middle;
-  border: 0;
-  position: absolute;
-  left: 0;
-}
 
 .flex-container {
     display: -webkit-flex;
@@ -84,7 +76,7 @@ img {
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
-    position: relative;
+    position: initial;
     left: 0;
 }
 
