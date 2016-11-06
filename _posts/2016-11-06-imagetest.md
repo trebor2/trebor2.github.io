@@ -16,7 +16,8 @@ the Person who is paralyzed; is old;
 
 ![](/assets/Awstrol%20Cover.PNG)
 
-![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
 ![](/assets/finalerightleg.jpg)
 ![](/assets/5.36renderfront.jpg)
-
+![](/assets/finale.jpg)
+![](/assets/finale.5.jpg)
+![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
