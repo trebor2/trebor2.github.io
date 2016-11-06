@@ -80,8 +80,8 @@ audio:not([controls]) {
 
 .flex-item {
     background-color: cornflowerblue;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
 }
 
 svg:not(:root) { overflow: hidden; }
