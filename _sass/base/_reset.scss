@@ -77,11 +77,11 @@ audio:not([controls]) {
     -webkit-justify-content: center;
     justify-content: center;
     left: 0;
+    position: absolute;
 }
 
 .flex-item {
-    background-color: cornflowerblue;
-    width: 100%;
+    min-width: 100%;
     height: 100%;
 }
 
