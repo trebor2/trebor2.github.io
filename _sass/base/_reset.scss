@@ -67,10 +67,12 @@ audio:not([controls]) {
 
 [hidden], template { display: none; }
 img {
-  max-width: 100%;
-  font-style: italic;
+  max-height: 100%;
+  width: auto;
   vertical-align: middle;
   border: 0;
+  position: absolute;
+  left: 0;
 }
 
 .flex-container {
