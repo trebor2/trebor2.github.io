@@ -68,9 +68,9 @@ audio:not([controls]) {
 [hidden], template { display: none; }
 
 img {
+  vertical-align: middle; 
   max-width: 75vw;
   font-style: italic;
-  vertical-align: middle;
   padding-bottom: 2rem;
 }
 
