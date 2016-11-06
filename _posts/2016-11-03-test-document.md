@@ -17,5 +17,5 @@ the Person who is paralyzed; is old;
 ![](/assets/Awstrol%20Cover.PNG)
 ![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
 <h6>Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
-![](/assets/finalerightleg.jpg)
+<img style="position:relative; left:0px; min-width:100%; height:100" src="assets/finalerightleg.jpg" />
 
