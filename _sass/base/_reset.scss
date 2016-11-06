@@ -76,7 +76,7 @@ audio:not([controls]) {
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
-    position: initial;
+    position: inherit;
     left: 0;
 }
 
