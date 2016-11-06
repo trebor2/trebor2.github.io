@@ -15,9 +15,8 @@ the Person who is paralyzed; is old;
 > Their story is not mine to tell
 
 ![](/assets/Awstrol%20Cover.PNG)
-<div class="flex-container">
-  <div class="flex-item"><img alt="Robert Marcus" src="assets/finalerightleg.jpg" /></div>
-  <div class="flex-item"><img alt="Robert Marcus" src="assets/5.36renderfront.jpg" /></div>
-  <div class="flex-item"><img alt="Robert Marcus" src="assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg" /></div>
-  <h6>Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
-</div>
+
+![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
+![](/assets/finalerightleg.jpg)
+![](/assets/5.36renderfront.jpg)
+
