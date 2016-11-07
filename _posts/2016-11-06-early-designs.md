@@ -4,9 +4,9 @@ title: Early designs
 date: 2016-11-03
 ---
 ![](/assets/progenitor.png)
-<h6>This was the first 'digital' drawing of Atlas, from early 2014. This was done in Microsoft paint. The design doctrine was centered around this 'rendition' for about a year. </h6>
+<h6>This was the first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
 ![](/assets/cadv1.PNG)
-<h6>Designing Atlas required persistence. I use a program called Solidworks to design the components and assemblies in each exoskeleton. Learning Solidworks was like sculpting marble with a toothbrush: difficult, but, with time, possible. This was my first assembled exoskeleton, although the power supply hasn't been designed yet.</h6>
+<h6>I use a CAD program called Solidworks to design the components and assemblies in each exoskeleton. Learning Solidworks was like teaching myself how to sculpt marble with a toothbrush: difficult, but, with time, possible. This was my first assembled exoskeleton, although the power supply hasn't been designed yet.</h6>
 ![](/assets/xray.PNG)
 <h6>This is an x-ray view of the same assembly. Assemblies combine many individual subcomponents - like screws or chassis panels - in a virtual space, where you can test and simulate the overall design. I design everything except the nuts, bolts, and bearings.</h6>
 ![](/assets/Atlas%20render.52.jpg)
