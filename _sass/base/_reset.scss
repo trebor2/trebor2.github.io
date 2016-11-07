@@ -30,7 +30,6 @@ body {
 
 article,
 aside,
-figcaption,
 figure,
 footer,
 header,
@@ -51,6 +50,9 @@ h6 {
 
 }
 
+figcaption {
+   font-size: 62.5%
+}
 
 /* Media */
 audio, canvas, progress, video {
@@ -69,9 +71,7 @@ audio:not([controls]) {
 
 img {
   max-width: 100%;
-  font-style: italic;
   vertical-align: middle; 
-  font-size: 100%;
 }
 
 svg:not(:root) { overflow: hidden; }
