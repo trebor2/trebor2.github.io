@@ -8,7 +8,7 @@ date: 2016-11-03
 ![](/assets/cadv1.PNG)
 <h6>Designing Atlas required persistence. I use a program called Solidworks to design the components and assemblies in each exoskeleton. Learning Solidworks was like sculpting marble with a toothbrush: difficult, but, with time, possible. This was my first assembled exoskeleton, although the power supply hasn't been designed yet.</h6>
 ![](/assets/xray.PNG)
-<h6>This is an x-ray view of the same assembly. Assemblies combine many individual subcomponents - like screws or chassis panels - in a virtual space, where you can test and simulate the overall design.</h6>
+<h6>This is an x-ray view of the same assembly. Assemblies combine many individual subcomponents - like screws or chassis panels - in a virtual space, where you can test and simulate the overall design. I design everything except the nuts, bolts, and bearings.</h6>
 ![](/assets/Atlas%20render.52.jpg)
 <h6>This is a render - I export the assemblies into a program called Keyshot, which can produce simulated pictures, like this one. For scale, the hip motors are 8 inches in diameter, the knee motors, 6 inches, and the feet, a size 11 mens.</h6>
 ![](/assets/backplategn.jpg)
