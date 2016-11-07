@@ -7,13 +7,9 @@ date: 2016-11-03
 <h6>...</h6>
 ![](/assets/Atlas%20render.52.jpg)
 <h6>...</h6>
-![](/assets/gennonecham.jpg)
-<h6>...</h6>
 ![](/assets/backplategn.jpg)
 <h6>...</h6>
 ![](/assets/Atlas%20render%203.68.jpg)
-<h6>...</h6>
-![](/assets/gennone.png)
 <h6>...</h6>
 ![](/assets/gennoneeht.png)
 <h6>...</h6>
