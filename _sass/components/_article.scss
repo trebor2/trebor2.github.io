@@ -17,13 +17,10 @@
   @include fs--body;
 
   > * {
-    margin-bottom: 1.8rem;
+    margin-bottom: 1.2rem;
     color: rgba($c__black, .7);
   }
-  figcaption {
-    font-size: 62.5%;
-    margin-bottom: 1.2rem;
-   }
+
   a:not(.c-btn) {
     text-decoration: underline;
   }
