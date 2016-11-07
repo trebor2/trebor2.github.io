@@ -11,12 +11,12 @@
   padding: 0;
 }
 
-*, *:before, *:after { box-sizing: inherit; }
+*, *:before, *:after { box-sizing: content-box; }
 
 
 html {
   min-height: 100%;
-  box-sizing: border-box;
+  box-sizing: content-box;
   -webkit-tap-highlight-color: transparent;
   font-size: 80%; // Make it easy to calculate rems to px
 
