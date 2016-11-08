@@ -21,14 +21,14 @@ date: 2016-11-03
 ![](/assets/v3.11.jpg)
 <h6>Version 3, for example, had a flexible ankle joint, instead of a rigid one - flat-footed walking is generally terrible. This brings up an obvious, but easily overlooked, notion: to be useful, an exoskeleton has to be as 'human-like' as possible.</h6>
 ![](/assets/v3.13.jpg)
-<h6>I was starting to realize the importance of compliant and flexible design by V3. I added gel-pads on contact-surfaces for safety/comfort, and a slightly curved pelvis/powersupply. </h6>
+<h6>I was starting to realize the importance of compliant and flexible design by V3. I added gel-pads on contact-surfaces for safety/comfort, and a slightly curved pelvis/powersupply. At the time, that level of accomadation seemed revolutionary to me. But I didn't let the advances distract me for long - I'd just discovered the magical power of ergonomic design</h6>
 ![](/assets/v3.14.jpg)
-<h6>You can make out four smaller motors connecting the hip motors to the pelvis (these rotated the legs). Each is about 1 inch in diameter and height - tiny. I used Matlab to derive the optimal motor architechure for the requirements, which took roughly a month or two. They're similar to quadcopter motors, but about 20x more expensive (~$500) </h6>
+<h6>Meanwhile, I was still figuring out how to integrate useful things, like turning, effectively. I spent a month developing the small motors connecting the hip motors to the pelvis - each is about 1.5 inches in diameter and height, which is tiny (I created a Matlab program to derive the optimal low volume, power dense motor, which is non-trivial).They're similar to quadcopter motors, but about 20x more expensive (~$500.)</h6>
 ![](/assets/v3.15.jpg)
-<h6>Impraticality was a dominant theme for most of this project. For example, this revision could fit Shaq - who is seven feet tall - at maximum extension.</h6>
+<h6>Impraticality was a dominant theme for most of this project. For example, V3 could fit Shaq - who is seven feet tall - at maximum extension (although Shaq weighs ~350 pounds, and the upper weight limit for early revisions was roughly 250lbs.)</h6>
 ![](/assets/v3.17.jpg)
-<h6>So I spent the next year improving the ergonomics, and learned how to actually design mechanically sound components</h6>
+<h6>So I spent a year improvising with new ideas, discovering flaws, retrying, and hopefully finding something worth pursuing in that chaos. I designed each new exoskeleton from scratch, roughly 75-80 times in the first 18 months. I wasn't just creating new 'things', I was inventing entirely new ways of doing so: I iterated on how I approached 'Exoskeletons', rather than old designs.</h6>
 ![](/assets/v4.43.jpg)
-<h6>Iterating on what has already been created is a trap of limited imagination though. </h6>
+<h6>...</h6>
 ![](/assets/v4.45.jpg)
 <h6>...</h6>
