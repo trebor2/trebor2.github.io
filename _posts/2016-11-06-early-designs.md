@@ -25,10 +25,10 @@ date: 2016-11-03
 ![](/assets/v3.14.jpg)
 <h6>Meanwhile, I was still figuring out how to integrate useful things, like turning, effectively. I spent a month developing the small motors connecting the hip motors to the pelvis - each is about 1.5 inches in diameter and height, which is tiny (I created a Matlab program to derive the optimal low volume, power dense motor, which is non-trivial).They're similar to quadcopter motors, but about 20x more expensive (~$500.)</h6>
 ![](/assets/v3.15.jpg)
-<h6>Impraticality was a dominant theme for most of this project. For example, V3 could fit Shaq - who is seven feet tall - at maximum extension (although Shaq weighs ~350 pounds, and the upper weight limit for early revisions was roughly 250lbs.)</h6>
+<h6>Impraticality was a dominant theme for most of this project. For example, V3 could fit Shaq - who is seven feet tall - at maximum extension (although Shaq weighs ~350 pounds, and the upper weight limit for early revisions was roughly 250lbs.) If he was in this render, everything above midchest would be out of the image. </h6>
 ![](/assets/v3.17.jpg)
 <h6>So I spent a year improvising with new ideas, discovering flaws, retrying, and hopefully finding something worth pursuing in that chaos. I designed each new exoskeleton from scratch, roughly 75-80 times in the first 18 months. I wasn't just creating new 'things', I was inventing entirely new ways of doing so: I iterated on how I approached 'Exoskeletons', rather than old designs.</h6>
 ![](/assets/v4.43.jpg)
-<h6>...</h6>
+<h6>This dedication to inquiry may contrast with the organic, carefree, misfit identity this project has cultivated. But, to be honest, while I've enjoyed this project, I bring this dedication to everything I do - my attitude is essentially serious, with a horror of the inaccurate, the fraudulent, the deceptive, the half-baked.</h6>
 ![](/assets/v4.45.jpg)
 <h6>...</h6>
