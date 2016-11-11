@@ -23,9 +23,11 @@ input[type=submit]:hover {
 }
 .button {
     float: right;
+    label: Next page;
 }
 .button2 {
     float: left;
+    label: Previous page;
 }
 </style>
 # The First 18 Months 
@@ -57,5 +59,5 @@ input[type=submit]:hover {
 <h6>I wasn't just creating new 'things', I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. V8 was probably the first generation that would've worked, well - fully built, it would've weighed 27 pounds, cost ~$8,000 to build, and had an endurance of ~8 hours. On paper, it was at least equivalent to current exoskeletons, but lighter and cheaper.</h6>
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
-<div class="button"><input type="submit" placeholder="Part 2" value="//trebor2.github.io/contact.html" /> </div>
-<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" label="Part 2" /></a></div>
+<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
+<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
