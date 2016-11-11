@@ -57,8 +57,6 @@ input[type=submit]:hover {
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 
-<label for="right">Next Page</label>
-<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit" id="right" value="right"/></a></div>
-<label for="left">Past Page</label>
-<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" id="left" value="left"/></a></div>
+<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit" id="Next Page" value="Next Page"/></a></div>
+<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" id="Past Page" value="Past Page"/></a></div>
 
