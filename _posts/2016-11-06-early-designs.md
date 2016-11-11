@@ -3,6 +3,7 @@ layout: post
 title: Early designs
 date: 2016-11-03
 ---
+<style>
 input[type=submit] {
     width: 100%;
     background-color: white;
@@ -26,6 +27,7 @@ input[type=submit]:hover {
 .button2 {
     float: left;
 }
+</style>
 # The First 18 Months 
 ![](/assets/progenitor.png)
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
