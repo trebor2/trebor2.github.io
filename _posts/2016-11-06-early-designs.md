@@ -3,33 +3,7 @@ layout: post
 title: Early designs
 date: 2016-11-03
 ---
-<style>
-input[type=submit] {
-    width: 100%;
-    background-color: white;
-    color: black;
-    padding: 14px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 2px solid #4a86e8;
-    border-radius: 10px;
-    cursor: pointer;
-    font-size: 20px;
-    font-family: Nobile;
-}
-input[type=submit]:hover {
-    background-color: #4a86e8;
-    color: white;
-}
-.button {
-    float: right;
-    label: Next page;
-}
-.button2 {
-    float: left;
-    label: Previous page;
-}
-</style>
+
 # The First 18 Months 
 ![](/assets/progenitor.png)
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
@@ -59,5 +33,5 @@ input[type=submit]:hover {
 <h6>I wasn't just creating new 'things', I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. V8 was probably the first generation that would've worked, well - fully built, it would've weighed 27 pounds, cost ~$8,000 to build, and had an endurance of ~8 hours. On paper, it was at least equivalent to current exoskeletons, but lighter and cheaper.</h6>
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
-<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
-<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
+
+<div class=".c-btn-group">TEST>
