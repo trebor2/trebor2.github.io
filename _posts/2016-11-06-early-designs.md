@@ -35,8 +35,8 @@ date: 2016-11-03
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 
 <div class="container">
-  <div class="btn-group">
+  <c.btn-group>
   <button>Left</button>
   <button>Right</button>
-  </div>
+  </c.btn-group>
 </div>
