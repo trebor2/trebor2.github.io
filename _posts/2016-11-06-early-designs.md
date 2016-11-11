@@ -34,4 +34,9 @@ date: 2016-11-03
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 
-<button>Test</button>
+<div class="container">
+  <div class="btn-group">
+  <button type="button">Left</button>
+  <button type="button">Right</button>
+  </div>
+</div>
