@@ -3,7 +3,29 @@ layout: post
 title: Early designs
 date: 2016-11-03
 ---
-
+<style>
+.flex-container {
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 2px solid #4a86e8;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Nobile;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.bleft {
+    float: left;
+}
+.bright {
+    float: right;
+}
+</style>
 # The First 18 Months 
 ![](/assets/progenitor.png)
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
@@ -34,9 +56,7 @@ date: 2016-11-03
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 
-<div class="container">
-  <c.btn-group>
-  <button>Left</button>
-  <button>Right</button>
-  </c.btn-group>
+<div class="flex-container">
+  <div class="bleft">TEST</div>
+  <div class="bright">TEST</div>
 </div>
