@@ -28,7 +28,7 @@ input[type=submit]:hover {
 }
 </style>
 # The First 18 Months 
-![](/assets/progenitor.png)
+<a href="/assets/progenitor.png">![](/assets/progenitor.png)</a>
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
 ![](/assets/cadv1.PNG)
 <h6>I taught myself how to use an engineering program called Solidworks, to design the components and assemblies in each exoskeleton. Learning Solidworks was like teaching myself how to sculpt marble with a toothbrush: difficult, but, with time, possible. This was my first assembled exoskeleton, although the power supply hasn't been designed yet.</h6>
