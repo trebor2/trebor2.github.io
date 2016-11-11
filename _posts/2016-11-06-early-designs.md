@@ -58,4 +58,4 @@ input[type=submit]:hover {
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 <div class="button"><input type="submit" placeholder="Part 2" value="//trebor2.github.io/contact.html" /> </div>
-<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" placeholder="Part 2" /></a></div>
+<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" label="Part 2" /></a></div>
