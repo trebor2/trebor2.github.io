@@ -4,26 +4,30 @@ title: Early designs
 date: 2016-11-03
 ---
 <style>
-.flex-container {
+input[type=submit] {
     width: 100%;
     background-color: white;
     color: black;
     padding: 14px 20px;
     margin: 8px 0;
+    display: inline-block;
     border: 2px solid #4a86e8;
     border-radius: 10px;
     cursor: pointer;
     font-size: 20px;
     font-family: Nobile;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
 }
-.bleft {
-    float: left;
+input[type=submit]:hover {
+    background-color: #4a86e8;
+    color: white;
 }
-.bright {
+.button {
     float: right;
+    label: Next page;
+}
+.button2 {
+    float: left;
+    label: Previous page;
 }
 </style>
 # The First 18 Months 
@@ -56,7 +60,6 @@ date: 2016-11-03
 ![](/assets/v4.45.jpg)
 <h6>The advances came from a blend of different materials for a refined, hybrid construction, and improved understanding of     </h6>
 
-<div class="flex-container">
-  <div class="bleft">TEST</div>
-  <div class="bright">TEST</div>
-</div>
+<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
+<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit"/></a></div>
+
