@@ -5,7 +5,6 @@ date: 2016-11-03
 ---
 <style>
 input[type=submit] {
-    width: 100%;
     background-color: white;
     color: black;
     padding: 14px 20px;
@@ -22,12 +21,10 @@ input[type=submit]:hover {
     color: white;
 }
 .button {
-    margin-right: auto;
-    label: Next page;
+    float: right;
 }
 .button2 {
-    margin-left: auto;
-    label: Previous page;
+    float: left;
 }
 </style>
 # The First 18 Months 
