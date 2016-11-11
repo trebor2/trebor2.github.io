@@ -22,11 +22,11 @@ input[type=submit]:hover {
     color: white;
 }
 .button {
-    text-align: right;
+    margin-right: auto;
     label: Next page;
 }
 .button2 {
-    text-align: left;
+    margin-left: auto;
     label: Previous page;
 }
 </style>
