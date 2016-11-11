@@ -36,7 +36,7 @@ date: 2016-11-03
 
 <div class="container">
   <div class="btn-group">
-  <button type="button">Left</button>
-  <button type="button">Right</button>
+  <button>Left</button>
+  <button>Right</button>
   </div>
 </div>
