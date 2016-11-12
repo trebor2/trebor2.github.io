@@ -40,6 +40,5 @@ the Person who is paralyzed; is old;
 <h6>Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
 ![](/assets/finalerightleg.jpg)
 ![](/assets/5.36renderfront.jpg)
-
 <div class="button"><a href="//trebor2.github.io/early-designs.html"><input type="submit" id="Next Page" value="Next Page"/></a></div>
 <div class="button2"><a href="//trebor2.github.io/index.html"><input type="submit" id="Past Page" value="Past Page"/></a></div>
