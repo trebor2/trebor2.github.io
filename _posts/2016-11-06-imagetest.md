@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image Test
+title: Previous page
 date: 2016-11-06
 ---
 # Preface
