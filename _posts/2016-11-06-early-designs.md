@@ -2,8 +2,8 @@
 layout: post
 title: Early designs
 date: 2016-11-03
-previous: 2016-11-03-test-document.md
-next: 2016-11-12-part-two.md
+previous: /test-document
+next: /part-two
 ---
 # The First 18 Months 
 <a href="/assets/progenitor.png" target="_blank">![](/assets/progenitor.png)</a>
