@@ -2,7 +2,7 @@
 layout: post
 title: Test Document
 date: 2016-11-03
-previous: /early-designs
+previous: /index.html
 next: /early-designs
 ---
 # Preface
