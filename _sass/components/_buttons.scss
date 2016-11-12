@@ -7,12 +7,14 @@ input[type=submit] {
     color: black;
     padding: 14px 20px;
     margin: 8px 0;
-    display: inline-block;
     border: 2px solid #4a86e8;
     border-radius: 10px;
     cursor: pointer;
     font-size: 20px;
     font-family: Nobile;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
 }
 input[type=submit]:hover {
     background-color: #4a86e8;
@@ -25,5 +27,5 @@ input[type=submit]:hover {
     float: left;
 }
 .button3 {
-    display: inline-block;
+
 }
