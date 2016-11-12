@@ -5,11 +5,12 @@ layout: page
     <ul class="button">
         {% if page.previous %}
             {% assign previous = page.previous %}
+            {% assign titlep = previous.title %}
         {%else%}
             {% assign previous = index.html%}
-            {% assign previous.title = Home %}
+            {% assign titlep = "Home" %}
         {% endif %}
-        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{previous.title}}</a></div>
+        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
         {% if page.next %}
             {% assign next = page.next %}
         {% endif %}
