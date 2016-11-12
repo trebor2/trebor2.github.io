@@ -9,11 +9,11 @@ But I must explain to you how all this mistaken idea of denouncing pleasure and 
 > Then wear the gold hat, if that will move her;<br> if you can bounce high, bounce for her too,<br>till she cry "Lover, gold-hatted, high-bouncing lover,<br>I must have you!<br>-F. Scott Fitzgerald 
 
 ![](/assets/Awstrol%20Cover.PNG)
-<a href="/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg" target="_blank">![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
+<a href="/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg" target="_blank">![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)</a>
 <h6>Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
-<a href="/assets/finalerightleg.jpg" target="_blank">![](/assets/finalerightleg.jpg)
+<a href="/assets/finalerightleg.jpg" target="_blank">![](/assets/finalerightleg.jpg)</a>
 <h6>Test caption<h6>
-<a href="/assets/5.36renderfront.jpg" target="_blank">![](/assets/5.36renderfront.jpg)
+<a href="/assets/5.36renderfront.jpg" target="_blank">![](/assets/5.36renderfront.jpg)</a>
 <h6> >Test caption with blockquote </h6>
 <div class="button"><a href="//trebor2.github.io/early-designs.html"><input type="submit" id="Next Page" value="Next Page"/></a></div>
 <div class="button2"><a href="//trebor2.github.io/index.html"><input type="submit" id="Home" value="Home"/></a></div>
