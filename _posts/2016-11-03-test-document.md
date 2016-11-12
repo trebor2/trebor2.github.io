@@ -11,7 +11,7 @@ But I must explain to you how all this mistaken idea of denouncing pleasure and 
 ![](/assets/Awstrol%20Cover.PNG)
 <h6>Non-clickable image</h6>
 <a href="/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg" target="_blank">![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)</a>
-<h6>Test variable image size scaling. Henri-Edmond Cross <i>Landscape with Stars</i>, 1908</h6>
+<h6>Test variable image size scaling. Henri-Edmond Cross. <i>Landscape with Stars</i>. 1908.</h6>
 <a href="/assets/finalerightleg.jpg" target="_blank">![](/assets/finalerightleg.jpg)</a>
 <h6>Test caption.</h6>
 <a href="/assets/5.36renderfront.jpg" target="_blank">![](/assets/5.36renderfront.jpg)</a>
