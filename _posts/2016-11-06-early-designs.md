@@ -3,30 +3,6 @@ layout: post
 title: Early designs
 date: 2016-11-03
 ---
-<style>
-input[type=submit] {
-    background-color: white;
-    color: black;
-    padding: 14px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 2px solid #4a86e8;
-    border-radius: 10px;
-    cursor: pointer;
-    font-size: 20px;
-    font-family: Nobile;
-}
-input[type=submit]:hover {
-    background-color: #4a86e8;
-    color: white;
-}
-.button {
-    float: right;
-}
-.button2 {
-    float: left;
-}
-</style>
 # The First 18 Months 
 <a href="/assets/progenitor.png" target="_blank">![](/assets/progenitor.png)</a>
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
