@@ -61,6 +61,6 @@ input[type=submit]:hover {
 <a href="/assets/v4.45.jpg" target="_blank">![](/assets/v4.45.jpg)
 <h6>But I wasn't just creating new 'things' with each generation, I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. Every new version was an opportunity to create something of consequence through intense analysis and improvisation, even if it made my life more difficult. Pride and love of craft compelled me to take the long, hard, stupid way, and experiment with entirely new species of exoskeleton designs, instead of prototyping V8.
 </h6>
-<div class="button"><a href="//trebor2.github.io/contact.html"><input type="submit" id="Next Page" value="Next Page"/></a></div>
-<div class="button2"><a href="//trebor2.github.io/contact.html"><input type="submit" id="Past Page" value="Past Page"/></a></div>
+<div class="button"><a href="//trebor2.github.io/part-two.html"><input type="submit" id="Next Page" value="Next Page"/></a></div>
+<div class="button2"><a href="//trebor2.github.io/test-document.html"><input type="submit" id="Past Page" value="Past Page"/></a></div>
 
