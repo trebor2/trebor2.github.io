@@ -2,7 +2,13 @@
    Buttons
    ========================================================================== */
 
-input[type=submit] {
+.button {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+
+.button0 {
     background-color: white;
     color: black;
     padding: 14px 20px;
@@ -12,20 +18,8 @@ input[type=submit] {
     cursor: pointer;
     font-size: 20px;
     font-family: Nobile;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
 }
-input[type=submit]:hover {
+.button0:hover {
     background-color: #4a86e8;
     color: white;
-}
-.button {
-    float: right;
-}
-.button2 {
-    float: left;
-}
-.button3 {
-
 }
