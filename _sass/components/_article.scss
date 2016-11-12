@@ -21,11 +21,7 @@
     color: rgba($c__black, .7);
   }
 
-  a:not(.c-btn) {
-    text-decoration: underline;
-  }
-
-  blockquote {
+   blockquote {
     margin-left: -2.5rem;
     width: calc(100% + 5rem);
     padding: 2.5rem;
