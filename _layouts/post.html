@@ -14,7 +14,23 @@ layout: page
         {% if page.next %}
             {% assign next = page.next %}
         {% endif %}
-        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{next.title}}&raquo;</a></div>         
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{next.title}} &raquo;</a></div>         
     </ul>
 </ul>
 {{ content }}
+<ul class="footer">
+    <ul class="button">
+        {% if page.previous %}
+            {% assign previous = page.previous %}
+            {% assign titlep = previous.title %}
+        {%else%}
+            {% assign previous = index.html%}
+            {% assign titlep = "Home" %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
+        {% if page.next %}
+            {% assign next = page.next %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{next.title}} &raquo;</a></div>         
+    </ul>
+</ul>
