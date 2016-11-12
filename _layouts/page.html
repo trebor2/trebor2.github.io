@@ -3,17 +3,6 @@ layout: default
 ---
 <article class="c-article">
   <div class="c-article__main">
-    <ul class="header">
-      <ul class="button">
-        {% if page.previous.url %}
-          <div class="button0"><a href="{{page.previous.url}}">&laquo;{{page.previous.title}}</a></div>
-        {% endif %}
-        {% if page.next.url %}
-            <div class="button0"><a href="{{page.next.url}}">{{page.next.title}}&raquo;</a></div>
-          {% endif %}
-      </ul>
-    </ul>
-    {{ content }}
-    
+    {{ content }}    
   </div>
 </article>
