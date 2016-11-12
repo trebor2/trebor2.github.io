@@ -38,3 +38,24 @@ date: 2016-11-03
 <h6>But I wasn't just creating new 'things' with each generation, I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. Every new version was an opportunity to create something of consequence through intense analysis and improvisation, even if it made my life more difficult. Pride and love of craft compelled me to take the long, hard, stupid way, and experiment with entirely new species of exoskeleton designs, instead of prototyping V8.
 </h6>
 
+<ul class="footer">
+    <ul class="button">
+        {% if page.previous %}
+            {% assign previous = page.previous %}
+            {% assign titlep = previous.title %}
+        {%else%}
+            {% assign previous = index.html%}
+            {% assign titlep = "Home" %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
+        {% if page.next %}
+            {% assign next = page.next %}
+            {% assign titlen = next.title %}
+        {%else%}
+            {% assign next = index.html%}
+            {% assign titlen = "Home" %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} &raquo;</a></div>         
+    </ul>
+</ul>
+
