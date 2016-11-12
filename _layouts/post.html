@@ -1,10 +1,21 @@
 ---
 layout: page
 ---
-    <ul class="header">
-      <ul class="button">
-        <div class="button0"><a href="{{page.previous.url}}">&laquo;{{page.previous.title}}</a></div>
-        <div class="button0"><a href="{{page.next.url}}">{{page.next.title}}&raquo;</a></div>         
-      </ul>
+<ul class="header">
+    <ul class="button">
+        {% if page.previous %}
+            {% assign previous = page.previous %}
+        {% else %}
+            {% assign previous = site.posts[0] %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{previous.title}}</a></div>
+        {% if page.next %}
+            {% assign next = page.next %}
+        {% else %}
+            {% assign last lastPostIndex = site.posts | size | minus: 1 %}
+            {% assign next = site.posts[lastPostIndex] %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{next.title}}&raquo;</a></div>         
     </ul>
+</ul>
 {{ content }}
