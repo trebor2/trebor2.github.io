@@ -2,7 +2,7 @@
 layout: post
 title: Test Document
 date: 2016-11-03
-previous: 2016-11-06-imagetest.md
+previous: 2016-11-06-early-designs.md
 next: 2016-11-06-early-designs.md
 ---
 # Preface
