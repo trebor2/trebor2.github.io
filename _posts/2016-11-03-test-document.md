@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Mapping3
+title: Test Document
 date: 2016-11-03
 ---
 input[type=submit] {
