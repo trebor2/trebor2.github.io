@@ -13,12 +13,12 @@ layout: page
         <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
         {% if page.next %}
             {% assign next = page.next %}
-            {% assign titlen = next.title + "&raquo;"%}
+            {% assign titlen = next.title %}
         {%else%}
             {% assign next = index.html%}
             {% assign titlen = "Home" %}
         {% endif %}
-        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} </a></div>         
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} &raquo;</a></div>         
     </ul>
 </ul>
 {{ content }}
