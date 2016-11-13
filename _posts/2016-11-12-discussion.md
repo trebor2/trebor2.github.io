@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Discussion
+title: Discussion - Conclusion
 date: 2016-11-12
 ---
-# Discussion
+# Discussion - Conclusion
 
 
 <ul class="footer">
