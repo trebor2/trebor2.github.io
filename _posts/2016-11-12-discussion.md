@@ -3,8 +3,6 @@ layout: post
 title: Discussion - Conclusion
 date: 2016-11-12
 ---
-# Discussion - Conclusion
-
 
 <ul class="footer">
     <ul class="button">
