@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Early Designs
+title: Early Designs - The First 18 Months 
 date: 2016-11-03
 ---
-# Early Designs - The First 18 Months 
 <a href="/assets/progenitor.png" target="_blank">![](/assets/progenitor.png)</a>
 <h6>This was my first 'digital' drawing of Atlas, from early 2014, done in Microsoft paint. This design approach guided the first 18 months of the project. </h6>
 <a href="/assets/cadv1.PNG" target="_blank">![](/assets/cadv1.PNG)
