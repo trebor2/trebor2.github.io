@@ -34,7 +34,7 @@ date: 2016-11-03
 <a href="/assets/v4croprear.jpg" target="_blank">![](/assets/v4croprear.jpg)
 <h6>The final V8 design. The new construction approach had massive consequences: fully built, Atlas would've weighed 27 pounds, cost ~$8,000 to prototype, had an endurance of ~4-5 hours, and a similar weight distribution to users would improve functionality significantly. Atlas was, finally, feasible.</h6>
 <a href="/assets/v4cropprofile.jpg" target="_blank">![](/assets/v4cropprofile.jpg)
-<h6>But I wasn't just creating new 'things' with each generation, I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. Every new version was an opportunity to create something of consequence through intense analysis and improvisation, even if it made my life more difficult. Pride and love of craft compelled me to take the long, hard, stupid way, and experiment with entirely new species of exoskeleton designs, instead of prototyping V8.
+<h6>I wasn't just creating new 'things' with each generation though, I was inventing entirely new ways of doing so: I iterated on how I understood 'Exoskeletons', rather than just improving old designs. Every new version was an opportunity to create something of consequence through intense analysis and improvisation, even if it made my life more difficult. Pride and love of craft compelled me to take the long, hard, stupid way, and experiment with entirely new species of exoskeleton designs, instead of prototyping V8.
 </h6>
 
 <ul class="footer">
