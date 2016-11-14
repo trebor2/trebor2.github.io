@@ -10,7 +10,7 @@ layout: page
             {% assign previous = index.html%}
             {% assign titlep = "Home" %}
         {% endif %}
-        <h1 id={{page.title}}>{{page.title}}</h1>
+        <h1 id="{{page.title}}">{{page.title}}</h1>
         <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
         {% if page.next %}
             {% assign next = page.next %}
