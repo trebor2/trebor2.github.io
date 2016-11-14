@@ -7,8 +7,6 @@ title: Awstrol - Home
 <p style="margin-top: 25vh; text-align: center">Hi! The website will be accessible by the afternoon of 11.12.2016. <br> Thank you for your patience! <br> If you have any questions, feel free to reach me at: <a href="rbm@awstrol.com">rbm@awstrol.com</a><br><br><br>Robert Marcus</p>
 
 {% for post in site.posts  %}
-<a href="{{ post.url | prepend: site.baseurl }}"
-   style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('/assets/Awstrol%20Cover.PNG') center / cover;">
-</a>
+<a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a>
+<br>
 {% endfor %}
