@@ -35,5 +35,25 @@ These are some of my favorite papers from over the years. They're in no particul
 <li><a href="http://arx.sagepub.com/content/11/4/56.full">Flexible Robotic Spine Actuated by Shape Memory Alloy</a><br></li>
 <li><a href="http://ieeexplore.ieee.org/document/7321290/">Study of a nonlinear control system for unbalanced two-link mechanism</a><br></li>
 <li><a href="http://ieeexplore.ieee.org/abstract/document/7158889/">Gait Generation Through a Feature Based Linear Periodic Function</a><br></li>
+<ul class="footer">
+    <ul class="button">
+        {% if page.previous %}
+            {% assign previous = page.previous %}
+            {% assign titlep = previous.title %}
+        {%else%}
+            {% assign previous = index.html%}
+            {% assign titlep = "Home" %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{previous.url}}">&laquo; {{titlep}}</a></div>
+        {% if page.next %}
+            {% assign next = page.next %}
+            {% assign titlen = next.title %}
+        {%else%}
+            {% assign next = index.html%}
+            {% assign titlen = "Home" %}
+        {% endif %}
+        <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} &raquo;</a></div>         
+    </ul>
+</ul>
 
 
