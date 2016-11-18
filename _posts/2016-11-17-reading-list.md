@@ -5,6 +5,7 @@ date: 2016-11-17
 ---
 These are some of my favorite papers from over the years. They're in no particular order. Some are no longer relevant, but at the time, they changed the way I think. Credit due where credit deserved.
 <ul>
+<li><a href="https://research.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html">Deep Learning for Robots: Learning from Large-Scale Interaction</a></li>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0893608009002883">A hybrid CPG–ZMP control system for stable walking of a simulated flexible spine humanoid robot</a><br></li>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0893608014002135">Deep learning in neural networks: An overview</a><br>
 <li><a href="http://iopscience.iop.org/1748-3190/7/4/041001">A survey of bio-inspired compliant legged robot designs</a><br></li>
