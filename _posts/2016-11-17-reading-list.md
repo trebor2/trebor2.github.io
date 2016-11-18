@@ -3,7 +3,7 @@ layout: post
 title: Current Readings
 date: 2016-11-17
 ---
-These are some notable papers I've read over the years, that have had some outsized influence on the way I see the world. They're in no particular order. Some of them are beyond me, still (papers that deal heavily with rat biology, for example). But they've all been important to me in this process of-sorts. Credit due where credit deserved.  
+These are some of my favorite papers from over the year. They're in no particular order. Some are no longer relevant, but at the time, they changed the way I think. Credit due where credit deserved.  
 <a href="http://www.sciencedirect.com/science/article/pii/S0893608009002883">A hybrid CPG–ZMP control system for stable walking of a simulated flexible spine humanoid robot</a><br>
 <a href="http://www.sciencedirect.com/science/article/pii/S0893608014002135">Deep learning in neural networks: An overview</a><br>
 <a href="http://iopscience.iop.org/1748-3190/7/4/041001">A survey of bio-inspired compliant legged robot designs</a><br>
