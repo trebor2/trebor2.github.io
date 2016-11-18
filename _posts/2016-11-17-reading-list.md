@@ -3,8 +3,10 @@ layout: post
 title: Favorite Readings
 date: 2016-11-17
 ---
-These are some of my favorite papers from over the year. They're in no particular order. Some are no longer relevant, but at the time, they changed the way I think. Credit due where credit deserved.  
-<a href="http://www.sciencedirect.com/science/article/pii/S0893608009002883">A hybrid CPG–ZMP control system for stable walking of a simulated flexible spine humanoid robot</a><br>
+These are some of my favorite papers from over the year. They're in no particular order. Some are no longer relevant, but at the time, they changed the way I think. Credit due where credit deserved.
+<ul>
+<li><a href="http://www.sciencedirect.com/science/article/pii/S0893608009002883">A hybrid CPG–ZMP control system for stable walking of a simulated flexible spine humanoid robot</a><br></li>
+</ul>
 <a href="http://www.sciencedirect.com/science/article/pii/S0893608014002135">Deep learning in neural networks: An overview</a><br>
 <a href="http://iopscience.iop.org/1748-3190/7/4/041001">A survey of bio-inspired compliant legged robot designs</a><br>
 <a href="https://www.researchgate.net/publication/268225813_Real-time_Walking_Pattern_Generation_for_Biped_Robot_with_Hybrid_CPG-ZMP_Algorithm">Real-time Walking Pattern Generation for a Biped Robot with Hybrid CPG-ZMP Algorithm</a><br>
