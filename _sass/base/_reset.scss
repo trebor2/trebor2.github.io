@@ -34,7 +34,13 @@ body:after {
   justify-content: center;
   padding-bottom: 1vh;
 }
-
+body:after:after {
+  content:"Last edited 11.18.2016";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1vh;
+}
 article,
 aside,
 figure,
