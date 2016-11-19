@@ -13,13 +13,6 @@
 
 *, *:before, *:after { box-sizing: content-box; }
 
-ul {
-   list-style-type: circle;
-}
-ul ul, ol ol {
-   -webkit-margin-before: 1rem;
-   -webkit-margin-after: 1rem;
-}
 html {
   min-height: 100%;
   box-sizing: content-box;
