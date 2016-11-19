@@ -55,6 +55,4 @@ These are some of my favorite papers from over the years. Some are no longer rel
         <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} &raquo;</a></div>         
     </ul>
 </ul>
-<p style="display:flex; align-items: center; justify-content: center; padding-bottom: 1vh; font-size: .5em;">&copy;2016 Robert Marcus&emsp;|&emsp;<a href="/home">Home</a></p>
-<p style="display:flex; align-items: center; justify-content: center; padding-bottom: 1vh; font-size: .5em;">Designed by Awstrol in Connecticut</p>
 
