@@ -28,11 +28,8 @@ body {
 
 }
 body:after {
-  content:"\00a9 2016 Robert Marcus";
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 1vh;
+<p style="display:flex; align-items: center; justify-content: center; font-size: .5em;">&copy;2016 Robert Marcus&emsp;|&emsp;<a href="/home">Home</a></p>
+<p style="display:flex; align-items: center; justify-content: center; padding-bottom: 1vh; font-size: .5em;">Designed by Awstrol in Connecticut</p>
 }
 
 article,
