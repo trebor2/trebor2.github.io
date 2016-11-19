@@ -15,7 +15,7 @@ date: 2016-11-03
 <h6>This render is an exploded view of Atlas's pelvis - the central joint between the legs, and power/computing unit. For scale, it's roughly 2.5 inches tall. You can make out a top and bottom motor inside the pelvis - these allow the legs to rotate, and control the pelvic width to match the users.</h6>
 <a href="/assets/Atlas%20render%203.68.jpg" target="_blank">![](/assets/Atlas%20render%203.68.jpg)
 <h6>Atlas V1 with an attached power supply. Just the chassis (i.e., no batteries, wiring, etc) weighed approximately 30 pounds, consisted of roughly 400 machined aluminum components, and would've cost roughly $30,000 to make - for context, current exoskeletons start at $75,000. </h6>
-<a href="/assets/gennoneeht.png" target="_blank">![](/assets/gennoneeht.png)
+<a href="/assets/v2.23.png" target="_blank">![](/assets/v2.23.png)
 <h6>But, if Atlas V1 had been prototyped, it would bear more resemblence to an overpriced torture machine than to a functioning exoskeleton.</h6>
 <a href="/assets/v3.11.jpg" target="_blank">![](/assets/v3.11.jpg)
 <h6>Version 3, for example, had a flexible ankle joint, instead of a rigid one - flat-footed walking is generally terrible. This brings up a neat concept: to be useful, an exoskeleton has to be as 'human-like' as possible.</h6>
