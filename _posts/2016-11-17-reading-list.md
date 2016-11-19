@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorite Readings
+title: Readings
 date: 2016-11-17
 ---
 These are some of my favorite papers from over the years. Some are no longer relevant, but they've all changed the way I think. They're in no particular order. Credit due where credit deserved...
