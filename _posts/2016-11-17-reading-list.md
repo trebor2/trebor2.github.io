@@ -54,7 +54,6 @@ These are some of my favorite papers from over the years. Some are no longer rel
         {% endif %}
         <div class="button0"><a href="{{site.baseurl}}{{next.url}}">{{titlen}} &raquo;</a></div>         
     </ul>
-    Test
 </ul>
-
+<p style="display:flex; align-items: center; justify-content: center; padding-bottom: 1vh; font-size: .25em;">\00a9 2016 Robert Marcus|<a href="/home">Home</a></p>
 
