@@ -4,13 +4,13 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
-  font-family: 'Nobile';
+  font-family: 'Noto Sans', sans-serif;
   word-spacing: 2px;
   font-weight: $font-weight;
 }
 
 @mixin ff--mono($font-weight: normal) {
-  font-family: 'Nobile';
+  font-family: 'Noto Sans', sans-serif;
   word-spacing: 2px;
   font-weight: $font-weight;
 }
