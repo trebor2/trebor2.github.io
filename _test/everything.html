@@ -1,0 +1,15 @@
+---
+layout: default
+images:
+  - image_path: /assets/2.29.jpg
+  - image_path: /assets/5.36renderfront.jpg
+  - image_path: /assets/Assem%20v4.21.jpg
+  - image_path: /assets/Assem%20v4.22.jpg
+---
+<ul>
+  {% for image in page.images %}
+  <li>
+    <a href="{{ image.image_path }}" target="_blank">![]({{ image.image_path }})</a>
+  </li>
+  {% endfor %}
+</ul>
