@@ -2,11 +2,26 @@
 layout: page
 title: Awstrol - Home
 ---
-div {
-    background-image:url('splashpage.png');
-    background-repeat:no-repeat;
-    background-size:cover;
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
 }
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+<div id="bg">
+  <img src="splashpage/bg.png" alt="welcome">
+</div>
 <div style="text-align: center; font-size: 1.3rem;">
 <a href="/preface">Preface</a>
   <br>
