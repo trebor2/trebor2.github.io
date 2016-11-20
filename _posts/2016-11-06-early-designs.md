@@ -33,7 +33,7 @@ date: 2016-11-03
 <h6>V8 hip and knee motors. These were 6 in. in diameter, and about 1.5" tall, optimized for high force and low speed (technically, these are stepper motors, but most steppers are 'can-like', while a 'pancake' style design is more desirable for exoskeletons, so I had to design my own motors.) Note: this isn't an accurate representation of a motor's internals, just simplified for a faster render.</h6>
 <a href="/assets/v4portrait.png" target="_blank">![](/assets/v4portrait.png)
 <h6>The final V8 design. The new construction approach had massive consequences: fully built, Atlas would've weighed 27 pounds, cost ~$8,000 to prototype, had an endurance of ~4-5 hours, and a similar center of mass to humans (approximately near the belly button) would improve functionality significantly (I call this zone the 'goldilocks region'.) Atlas was, finally, feasible.</h6>
-<a href="/assets/v4cropprofile.jpg" target="_blank">![](/assets/v4cropprofile.jpg)
+<a href="/assets/v4portrait.15.png" target="_blank">![](/assets/v4portrait.15.png)
 <h6>But I never built V8. Pride and love of craft compelled me to take the long, hard, stupid way, and see if something better existed.</h6>
 <ul class="footer">
     <ul class="button">
