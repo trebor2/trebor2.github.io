@@ -68,18 +68,6 @@ r8 {
    font-weight: bold;
 }
 
-.splashpage {
-   background: #fff url('/assets/greysplash.png') no-repeat center;
-   background-size: cover;
-   max-height: 100%;
-
-   p {
-      margin: 0;
-      position: absolute;
-      left: 35vw;
-      top: 23%
-   }
-}
 /* Media */
 audio, canvas, progress, video {
     display: inline-block;
