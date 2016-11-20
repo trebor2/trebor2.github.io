@@ -10,5 +10,6 @@ This will host the full collection of renders available, without captions (inclu
 <ul>
   {% for image in page.images %}
     <a href="{{ image.image_path }}" target="_blank"><img src= "{{ image.image_path }}"></a>
+    <br>
   {% endfor %}
 </ul>
