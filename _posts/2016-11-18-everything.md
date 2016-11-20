@@ -13,7 +13,7 @@ Test2
 <ul>
   {% for image in page.images %}
   <li>
-    <a href="{{ image.image_path }}" target="_blank">![]({{ image.image_path }})</a>
+    <a href="{{ image.image_path }}" target="_blank"><img src= "{{ image.image_path }}"></a>
   </li>
   {% endfor %}
 </ul>
