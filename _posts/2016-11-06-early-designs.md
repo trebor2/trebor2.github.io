@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early Designs - The First 18 Months 
+title: Designs, one 
 date: 2016-11-03
 ---
 <a href="/assets/progenitor.png" target="_blank">![](/assets/progenitor.png)</a>
