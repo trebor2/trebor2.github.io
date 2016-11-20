@@ -16,7 +16,7 @@ date: 2016-11-03
 <a href="/assets/Atlas%20render%203.68.jpg" target="_blank">![](/assets/Atlas%20render%203.68.jpg)
 <h6>Atlas V1 with batteries and a computer. The empty chassis weighed approximately 30 pounds, consisted of roughly 400 machined aluminum components, and would've cost roughly $30,000 to make - current exoskeletons start at $75,000 – before batteries, sensors, wiring, etc.</h6>
 <a href="/assets/v2.23.png" target="_blank">![](/assets/v2.23.png)
-<h6>Atlas V1 ignored ergonomics though, and, if prototyped, would bear more resemblance to an overpriced torture machine than to a functioning exoskeleton.</h6>
+<h6>Atlas V1 – the monolith especially - was an ergonomic disaster though, as well as unsafe.  Designing an ergonomic monolith replacement wouldn’t happen for 11 more generations.</h6>
 <a href="/assets/v3.11.jpg" target="_blank">![](/assets/v3.11.jpg)
 <h6>I measure exoskeleton ergonomics and utility by how ‘human-like’ a design is. To be useful, an exoskeleton must be as 'human-like' as possible. Version 3 had an articulating ankle joint instead of a rigid one, to avoid flat-footed walking.</h6>
 <a href="/assets/v3.13.jpg" target="_blank">![](/assets/v3.13.jpg)
