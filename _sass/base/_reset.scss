@@ -99,9 +99,10 @@ svg {
 
 .story-freedom {
     background: url(/assets/finale.7.jpg) no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    position: absolute;
-    background-color: #A9A9A9;
     
    p {
       margin: 0;
