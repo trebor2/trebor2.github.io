@@ -97,10 +97,19 @@ svg {
   max-height: 100%;
 }
 
-cover {
+.story-freedom {
     background: #fff url(/assets/finale.7.jpg) no-repeat center;
     background-size: cover;
-    position: initial;       
+    position: absolute;
+    background-color: #A9A9A9;
+    
+   p {
+      margin: 0;
+      position: absolute;
+      left: 35vw;
+      top: 23%;
+      font-size: to_rem(80);
+   }
 }
 
 /* Links */
