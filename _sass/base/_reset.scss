@@ -98,11 +98,11 @@ svg {
 }
 
 cover {
-    background-image:url('finale.7.jpg');
-    background-repeat:no-repeat;
-    background-size:contain;
+    background: #fff url(/assets/finale.7.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+    color: rgba(25,57,75,0.8);
 }
-
 
 /* Links */
 
