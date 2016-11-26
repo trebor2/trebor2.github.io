@@ -1,4 +1,4 @@
-title: Robert Marcus
+title: Exoskeletons | Robert Marcus
 email: rbm@awstrol.com
 
 baseurl: "trebor2.github.io" # the subpath of your site, e.g. /blog
@@ -15,5 +15,3 @@ exclude: [_site, LICENSE, README.md]
 sass:
   style: compressed
 
-collections:
-  test:
