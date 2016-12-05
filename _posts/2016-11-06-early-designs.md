@@ -32,7 +32,7 @@ date: 2016-11-03
 <a href="/assets/v4portrait.png" target="_blank">![](/assets/v4portrait.png)
 <h6>The final V8 design. The new construction approach had massive consequences: fully built, Atlas would've weighed 27 pounds, cost ~$8,000 to prototype, had an endurance of ~4-5 hours, and a similar center of mass to humans (approximately near the belly button) would improve functionality significantly (I call this zone the 'goldilocks region'.) Atlas was, finally, feasible.</h6>
 <a href="/assets/v4portrait.15.png" target="_blank">![](/assets/v4portrait.15.png)
-<h6>But I never built V8. Pride and love of craft compelled me to take the long, hard, stupid way, and see if something better existed.</h6>
+<h6>But I never built V8. Pride and love of craft compelled me to take the long, hard, stupid way, and discover if I could do better than what I had already done.</h6>
 <ul class="footer">
     <ul class="button">
         {% if page.previous %}
