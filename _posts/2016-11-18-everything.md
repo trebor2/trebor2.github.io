@@ -5,7 +5,9 @@ date: 2016-11-18
 images:
   - image_path: 
 ---
-This will host renders not previously shown - approximately 70 - in a slightly chronological order. I'm currently working on a format that won't crash your web browser in the process of loading this page... In the meantime, here is a painting by Henri-Edmond Cross, <i>Landscape With Stars</i>
+This will host renders not previously shown - approximately 70 - in a slightly chronological order. I'm currently working on a format that won't crash your web browser in the process of loading this page, so here is a google drive <a href= "https://drive.google.com/open?id=0B6lx-9nKAHnBczBzQUlCRnRCc1k" target="_blank">folder</a> to peruse them if you are curious
+
+In the meantime, here is a painting by Henri-Edmond Cross, <i>Landscape With Stars</i>
 ![](/assets/Henri-Edmond%20Cross%20Landscape%20With%20Stars.jpg)
 <ul>
   {% for image in page.images %}
